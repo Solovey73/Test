@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Текущая новость добавлена")
         // Do any additional setup after loading the view.
     }
 
